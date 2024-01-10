@@ -1,8 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  // css: [
-  //   "@/theme/variables.css",
-  // ],
+  css: [
+    "@/theme/variables.css",
+  ],
   devtools: { 
     enabled: true,
   },
