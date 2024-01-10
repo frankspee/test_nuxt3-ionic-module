@@ -11,8 +11,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/ionic',
   ],
-  // ssr: false,
-  // typescript: {
-  //   shim: false,
-  // },
+  ssr: false,
+  typescript: {
+    shim: false,
+  },
 })
